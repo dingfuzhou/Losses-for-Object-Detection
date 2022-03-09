@@ -4,7 +4,7 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 =============================
 ## Table of contents
 
-- [Classification Losses](#getting-started-with-markdown)
+- [Classification Losses](#Classification-Losses)
 	- [Classical Classification Losses](#Classical-Classification-Losses)
 	- [List CheckBox](#Imbalanced-Classification)
 	- [List CheckBox](#Classification-and-Regression-Misalignment)
@@ -17,23 +17,23 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 
 
 ----------------------------------
+# Classification Losses
 
-# Classical Classification Losses
+## Classical Classification Losses
 
+## Imbalanced Classification
 
-# Imbalanced Classification
-
-# Classification and Regression Misalignment
+## Classification and Regression Misalignment
 
 # Regression Losses
 
-# Scale Imbalance
+## Scale Imbalance
 
-# Optimization Issue
+## Optimization Issue
 
-# Outlier Problem
+## Outlier Problem
 
-# Automation Searching
+## Automation Searching
 
-# Orientated Object-Detection
+## Orientated Object-Detection
  
