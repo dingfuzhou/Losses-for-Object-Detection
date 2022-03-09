@@ -4,10 +4,9 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 =============================
 ## Table of contents
 
-- [Getting started with Markdown](#getting-started-with-markdown)
-- [Titles](#titles)
-- [Paragraph](#paragraph)
-- [List](#list)
+- [Classification Losses](#getting-started-with-markdown)
+	- [List CheckBox](#list-checkbox)
+	- [List CheckBox](#list-checkbox)
 	- [List CheckBox](#list-checkbox)
 - [Link](#link)
 	- [Anchor links](#anchor-links)
