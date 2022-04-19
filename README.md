@@ -3,11 +3,10 @@ This repository provides an up-to-date list of loss functions proposed for solvi
  
 =============================
 ## Table of contents
-- [Ground Truth Label Assignment](#Ground Truth Label Assignment)
-	- [One-to-Many Assignment](#One-to-Many Assignment)
-	- [One-to-One Assignment](#One-to-One Assignment)
+- [Ground Truth Label Assignment](#Ground-Truth-Label-Assignment)
+	- [One-to-Many Assignment](#One-to-Many-Assignment)
+	- [One-to-One Assignment](#One-to-One-Assignment)
 	- [List CheckBox](#Classification-and-Regression-Misalignment)
-
 - [Classification Losses](#Classification-Losses)
 	- [Classical Classification Losses](#Classical-Classification-Losses)
 	- [List CheckBox](#Imbalanced-Classification)
