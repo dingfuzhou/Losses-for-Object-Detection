@@ -42,12 +42,20 @@ This repository provides an up-to-date list of loss functions proposed for solvi
   -Pnp-detr: towards efficient visual analysis with transformers. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_PnP-DETR_Towards_Efficient_Visual_Analysis_With_Transformers_ICCV_2021_paper.pdf)  
   -Conditional detr for fast training convergence. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.pdf)  
 
-# 2. Classification Losses <a name="2"></a>
-## 2.1 Classical Classification Losses <a name="2.1"></a>
-## 2.2 Sampling-based Approaches <a name="2.2"></a>
-## 2.3 Re-weighting-based Approaches <a name="2.3"></a>
-## 2.4 Gradient-based Approaches <a name="2.4"></a>
-## 2.5 Ranking-based Approaches <a name="2.5"></a>
+# 2. Classification Losses <a name="2"></a>  
+## 2.1 Classical Classification Losses <a name="2.1"></a>  
+- Boosting series，such as AdaBoost etc: 
+- Support Vector Manchine.  
+## 2.2 Sampling-based Approaches <a name="2.2"></a>  
+- Offline Sampling-based Approaches.  
+-Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
+-CBGS: Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.09492.pdf)     
+-Copy-and-Paste: PointRCNN(https://arxiv.org/pdf/1908.09492.pdf) , CenterPoint(https://arxiv.org/pdf/1908.09492.pdf) , SECOND(https://arxiv.org/pdf/1908.09492.pdf) , PointPillars(https://arxiv.org/pdf/1908.09492.pdf)  etc.  
+-Rendering-based Copy and Paste: LiDAR-Aug: A General Rendering-based Augmentation Framework for 3D Object Detection. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.pdf)    
+
+## 2.3 Re-weighting-based Approaches <a name="2.3"></a>  
+## 2.4 Gradient-based Approaches <a name="2.4"></a>  
+## 2.5 Ranking-based Approaches <a name="2.5"></a>  
 
 # Regression Losses
 ## Scale Imbalance
