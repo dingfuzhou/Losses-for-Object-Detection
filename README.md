@@ -112,14 +112,14 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -3d bounding box estimation using deep learning and geometry. [[Paper]](https://arxiv.org/pdf/1612.00496.pdf) 
 -Dense label encoding for boundary discontinuity free rotation detection. [[Paper]](https://arxiv.org/pdf/2011.09670.pdf) 
 -On the arbitrary-oriented object detection: Classification based approaches revisited. [[Paper]](https://arxiv.org/pdf/2003.05597.pdf)  
-## 4.2. Complicated IoU Computation Issue <a name="4.2"></a>  
--IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf)  
--Piou loss: Towards accurate oriented object detection in complex environments. [[Paper]](https://arxiv.org/pdf/2007.09584.pdf) 
--Rethinking rotated object detection with gaussian wasserstein distance loss. [[Paper]](https://arxiv.org/pdf/2101.11952.pdf) 
--Gaussian bounding boxes and probabilistic intersection-over-union for object detection. [[Paper]](https://arxiv.org/pdf/2106.06072.pdf)  
--The kfiou loss for rotated object detection. [[Paper]](https://arxiv.org/pdf/2201.12558.pdf) 
--A normalized gaussian wasserstein distance for tiny object detection. [[Paper]](https://arxiv.org/pdf/2110.13389.pdf) 
--Learning high-precision bounding box for rotated object detection via kullback-leibler divergence. [[Paper]](https://arxiv.org/pdf/2106.01883.pdf)  
+## 4.2. Complicated IoU Computation Issue <a name="4.2"></a>    
+-IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf)   
+-Piou loss: Towards accurate oriented object detection in complex environments. [[Paper]](https://arxiv.org/pdf/2007.09584.pdf)   
+-Rethinking rotated object detection with gaussian wasserstein distance loss. [[Paper]](https://arxiv.org/pdf/2101.11952.pdf)    
+-Gaussian bounding boxes and probabilistic intersection-over-union for object detection. [[Paper]](https://arxiv.org/pdf/2106.06072.pdf)     
+-The kfiou loss for rotated object detection. [[Paper]](https://arxiv.org/pdf/2201.12558.pdf)    
+-A normalized gaussian wasserstein distance for tiny object detection. [[Paper]](https://arxiv.org/pdf/2110.13389.pdf)    
+-Learning high-precision bounding box for rotated object detection via kullback-leibler divergence. [[Paper]](https://arxiv.org/pdf/2106.01883.pdf)     
 # 5. Future Research  Directions <a name="5"></a>  
 ## 5.1. Unifying Classification and Localisation Tasks <a name="5.1"></a>  
 ## 5.2. Automation Loss Function Searching <a name="5.2"></a> 
