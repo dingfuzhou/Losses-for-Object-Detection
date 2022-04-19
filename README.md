@@ -50,7 +50,7 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 - Offline Sampling-based Approaches.  
 -Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
 -CBGS: Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.09492.pdf)     
--Copy-and-Paste: PointRCNN(https://arxiv.org/pdf/1908.09492.pdf) , CenterPoint(https://arxiv.org/pdf/1908.09492.pdf) , SECOND(https://arxiv.org/pdf/1908.09492.pdf) , PointPillars(https://arxiv.org/pdf/1908.09492.pdf)  etc.  
+-Copy-and-Paste: [PointRCNN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf), [CenterPoint](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.pdf), [SECOND](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf), [PointPillars](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf), etc.  
 -Rendering-based Copy and Paste: LiDAR-Aug: A General Rendering-based Augmentation Framework for 3D Object Detection. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.pdf)    
 
 ## 2.3 Re-weighting-based Approaches <a name="2.3"></a>  
