@@ -31,7 +31,10 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 ----------------------------------
 # 1. Ground Truth Label Assignment <a name="1"></a>
 ## 1.1 One-to-Many Assignment<a name="1.1"></a>
+  - Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
 ## 1.2 One-to-One Assignment<a name="1.2"></a>
+  -DETR based object detectors, such as [[DETR]](https://arxiv.org/pdf/2005.12872.pdf)
+
 
 # 2. Classification Losses <a name="2"></a>
 ## 2.1 Classical Classification Losses <a name="2.1"></a>
