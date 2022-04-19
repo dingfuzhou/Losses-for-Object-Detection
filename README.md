@@ -88,9 +88,23 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 
 # 3. Regression Losses <a name="3"></a>  
 ## 3.1. Scale Imbalance <a name="3.1"></a>  
+-A scale balanced loss for bounding box regression. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112187)  
+-Scaloss: Side and corner aligned loss for bounding box regression. [[Paper]](https://arxiv.org/pdf/2104.00462.pdf)  
+-Scale-balanced loss for object detection. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320321001849)   
 ## 3.2. Optimization Issue <a name="3.2"></a>  
+-Unitbox: An advanced object detection network. [[Paper]](https://arxiv.org/pdf/1608.01471.pdf)   
+-Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression. [[Paper]](https://giou.stanford.edu/GIoU.pdf)  
+-Distance-iou loss: Faster and better learning for bounding box regression. [[Paper]](https://arxiv.org/pdf/1911.08287.pdf)  
+-Focal and efficient iou loss for accurate bounding box regression. [[Paper]](https://arxiv.org/pdf/2101.08158.pdf)  
+-Alpha-iou:A family of power intersection over union losses for bounding box regression. [[Paper]](https://arxiv.org/pdf/2110.13675.pdf) 
+-IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf) 
 ## 3.3. Outlier Problem <a name="3.3"></a>  
-
+-Unitbox: An advanced object detection network. [[Paper]](https://arxiv.org/pdf/1608.01471.pdf)   
+-Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression. [[Paper]](https://giou.stanford.edu/GIoU.pdf)  
+-Distance-iou loss: Faster and better learning for bounding box regression. [[Paper]](https://arxiv.org/pdf/1911.08287.pdf)  
+-Focal and efficient iou loss for accurate bounding box regression. [[Paper]](https://arxiv.org/pdf/2101.08158.pdf)  
+-Alpha-iou:A family of power intersection over union losses for bounding box regression. [[Paper]](https://arxiv.org/pdf/2110.13675.pdf) 
+-IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf) 
 # 4. Loss Function for Oriented Object Detection <a name="4"></a>  
 ## 4.1. Boundary Discontinuity Problem <a name="4.1"></a>  
 ## 4.2. Complicated IoU Computation Issue <a name="4.2"></a>  
