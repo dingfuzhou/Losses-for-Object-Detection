@@ -6,43 +6,53 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 - [Ground Truth Label Assignment](#Ground-Truth-Label-Assignment)
 	- [One-to-Many Assignment](#One-to-Many-Assignment)
 	- [One-to-One Assignment](#One-to-One-Assignment)
-	- [List CheckBox](#Classification-and-Regression-Misalignment)
 - [Classification Losses](#Classification-Losses)
 	- [Classical Classification Losses](#Classical-Classification-Losses)
-	- [List CheckBox](#Imbalanced-Classification)
-	- [List CheckBox](#Classification-and-Regression-Misalignment)
+	- [Sampling-based Approaches](#Sampling-based-Approaches)
+	- [Re-weighting-based Approaches](#Re-weighting-based-Approaches)
+	- [Gradient-based Approaches](#Gradient-based-Approaches)
+	- [Gradient-based Approaches](#Gradient-based-Approaches)
 - [Regression Losses](#REGRESSION-LOSSES)
-	- [List CheckBox](#Scale-Imbalance)
-	- [List CheckBox](#Optimization-Issue)
-	- [List CheckBox](#Outlier-Problem)
-	- [List CheckBox](#Automation-Searching)
-	- [List CheckBox](#Orientated-Object-Detection)
+	- [Scale Imbalance Issue](#Scale-Imbalance)
+	- [Optimization Issue](#Optimization-Issue)
+	- [Outlier Problem](#Outlier-Problem)
+- [Loss Function for Oriented Object Detection](#Loss-Function-for-Oriented-Object-Detection)
+	- [Boundary Discontinuity Problem](#Boundary-Discontinuity-Problem)
+	- [Complicated-IoU-Computation-Issue](#Complicated-IoU-Computation-Issue)
+ - [ Future Research Directions](#Future-Research-Directions)
+	- [Unifying Classification and Localisation Tasks](#Unifying-Classification-and-Localisation-Tasks)
+	- [Automation Loss Function Searching](#Automation-Loss-Function-Searching)
+	- [End-to-end Object Detection](#End-to-end-Object-Detection)
+	- [Mulit-tasks Learning](#Mulit-tasks-Learning)
+
+
 
 
 ----------------------------------
 # Ground Truth Label Assignment
-
 ## One-to-Many Assignment
-
 ## One-to-One Assignment
 
 # Classification Losses
-
 ## Classical Classification Losses
-
-## Imbalanced Classification
-
-## Classification and Regression Misalignment
+## Sampling-based Approaches
+## Re-weighting-based Approaches
+## Gradient-based Approaches
+## Ranking-based Approaches
 
 # Regression Losses
-
 ## Scale Imbalance
-
 ## Optimization Issue
-
 ## Outlier Problem
 
-## Automation Searching
+# Loss Function for Oriented Object Detection
+## Boundary Discontinuity Problem
+## Complicated IoU Computation Issue
 
-## Orientated Object-Detection
+# Future Research  Directions
+## Unifying Classification and Localisation Tasks
+## Automation Loss Function Searching
+## End-to-end Object Detection
+## Mulit-tasks Learning
+ 
  
