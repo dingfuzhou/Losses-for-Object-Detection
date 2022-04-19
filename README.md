@@ -99,16 +99,27 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -Alpha-iou:A family of power intersection over union losses for bounding box regression. [[Paper]](https://arxiv.org/pdf/2110.13675.pdf) 
 -IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf) 
 ## 3.3. Outlier Problem <a name="3.3"></a>  
--Unitbox: An advanced object detection network. [[Paper]](https://arxiv.org/pdf/1608.01471.pdf)   
--Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression. [[Paper]](https://giou.stanford.edu/GIoU.pdf)  
--Distance-iou loss: Faster and better learning for bounding box regression. [[Paper]](https://arxiv.org/pdf/1911.08287.pdf)  
--Focal and efficient iou loss for accurate bounding box regression. [[Paper]](https://arxiv.org/pdf/2101.08158.pdf)  
--Alpha-iou:A family of power intersection over union losses for bounding box regression. [[Paper]](https://arxiv.org/pdf/2110.13675.pdf) 
--IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf) 
+-Libra R-CNN: Towards Balanced Learning for Object Detection. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Libra_R-CNN_Towards_Balanced_Learning_for_Object_Detection_CVPR_2019_paper.pdf)  
+-Iou-balanced loss functions for single-stage object detection. [[Paper]](https://arxiv.org/pdf/1908.05641.pdf)  
+-Improving object localization with fitness nms and bounded iou loss. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0794.pdf)  
+
 # 4. Loss Function for Oriented Object Detection <a name="4"></a>  
 ## 4.1. Boundary Discontinuity Problem <a name="4.1"></a>  
+-Scrdet: Towards more robust detection for small, cluttered and rotated objects. [[Paper]](https://arxiv.org/pdf/1811.07126.pdf)  
+-Bounding box projection for regression uncertainty in oriented object detection. [[Paper]](https://ieeexplore.ieee.org/document/9400416) 
+-Learning modulated loss for rotated object detection. [[Paper]](https://arxiv.org/pdf/1911.08299.pdf) 
+-Oriented object detection in aerial images with box boundary-aware vectors. [[Paper]](https://arxiv.org/pdf/1811.07126.pdf)  
+-3d bounding box estimation using deep learning and geometry. [[Paper]](https://arxiv.org/pdf/1612.00496.pdf) 
+-Dense label encoding for boundary discontinuity free rotation detection. [[Paper]](https://arxiv.org/pdf/2011.09670.pdf) 
+-On the arbitrary-oriented object detection: Classification based approaches revisited. [[Paper]](https://arxiv.org/pdf/2003.05597.pdf)  
 ## 4.2. Complicated IoU Computation Issue <a name="4.2"></a>  
-
+-IoU Loss for 2D/3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.03851.pdf)  
+-Piou loss: Towards accurate oriented object detection in complex environments. [[Paper]](https://arxiv.org/pdf/2007.09584.pdf) 
+-Rethinking rotated object detection with gaussian wasserstein distance loss. [[Paper]](https://arxiv.org/pdf/2101.11952.pdf) 
+-Gaussian bounding boxes and probabilistic intersection-over-union for object detection. [[Paper]](https://arxiv.org/pdf/2106.06072.pdf)  
+-The kfiou loss for rotated object detection. [[Paper]](https://arxiv.org/pdf/2201.12558.pdf) 
+-A normalized gaussian wasserstein distance for tiny object detection. [[Paper]](https://arxiv.org/pdf/2110.13389.pdf) 
+-Learning high-precision bounding box for rotated object detection via kullback-leibler divergence. [[Paper]](https://arxiv.org/pdf/2106.01883.pdf)  
 # 5. Future Research  Directions <a name="5"></a>  
 ## 5.1. Unifying Classification and Localisation Tasks <a name="5.1"></a>  
 ## 5.2. Automation Loss Function Searching <a name="5.2"></a> 
