@@ -48,11 +48,16 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 - Support Vector Manchine.  
 ## 2.2 Sampling-based Approaches <a name="2.2"></a>  
 - Offline Sampling-based Approaches.  
--Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
+-Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;  
 -CBGS: Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection. [[Paper]](https://arxiv.org/pdf/1908.09492.pdf)     
 -Copy-and-Paste: [PointRCNN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf), [CenterPoint](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.pdf), [SECOND](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf), [PointPillars](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf), etc.  
 -Rendering-based Copy and Paste: LiDAR-Aug: A General Rendering-based Augmentation Framework for 3D Object Detection. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.pdf)    
-
+- Online Sampling-based Approaches. 
+-Training Region-based Object Detectors with Online Hard Example Mining. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf)  
+-S-OHEM: Stratified Online Hard Example Mining for Object Detection. [[Paper]](https://arxiv.org/pdf/1705.02233.pdf)  
+-Libra R-CNN: Towards Balanced Learning for Object Detection. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Libra_R-CNN_Towards_Balanced_Learning_for_Object_Detection_CVPR_2019_paper.pdf)  
+-Prime Sample Attention in Object Detection. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Prime_Sample_Attention_in_Object_Detection_CVPR_2020_paper.pdf)  
+-Generating Positive Bounding Boxes for Balanced Training of Object Detectors. [[Paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Oksuz_Generating_Positive_Bounding_Boxes_for_Balanced_Training_of_Object_Detectors_WACV_2020_paper.pdf)  
 ## 2.3 Re-weighting-based Approaches <a name="2.3"></a>  
 ## 2.4 Gradient-based Approaches <a name="2.4"></a>  
 ## 2.5 Ranking-based Approaches <a name="2.5"></a>  
