@@ -4,6 +4,7 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 =============================
 # Table of contents
 1. [Ground Truth Label Assignment](#1)
+
     1.1 [One-to-Many Assignment](#1.1)
     1.2 [One-to-One Assignment](#1.2)
 - [Classification Losses](#Classification-Losses)
