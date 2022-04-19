@@ -59,7 +59,23 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -Prime Sample Attention in Object Detection. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Prime_Sample_Attention_in_Object_Detection_CVPR_2020_paper.pdf)  
 -Generating Positive Bounding Boxes for Balanced Training of Object Detectors. [[Paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Oksuz_Generating_Positive_Bounding_Boxes_for_Balanced_Training_of_Object_Detectors_WACV_2020_paper.pdf)  
 ## 2.3 Re-weighting-based Approaches <a name="2.3"></a>  
-## 2.4 Gradient-based Approaches <a name="2.4"></a>  
+-Focal Loss for Dense Object Detection. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  
+-Focal Loss in 3D Object Detection. [[Paper]](https://arxiv.org/pdf/1809.06065.pdf)  
+-Automated focal loss for image based object detection. [[Paper]](https://arxiv.org/pdf/1904.09048.pdf)  
+-Spatial focal loss for pedestrian detection in fisheye imagery. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8658951)   
+-Focal text: an accurate text detection with focal loss. [[Paper]](https://ieeexplore.ieee.org/document/8451241)  
+-Class-discriminative focal loss for extreme imbalanced multiclass object detection towards autonomous driving. [[Paper]](https://link.springer.com/article/10.1007/s00371-021-02067-9)  
+-Dldenet: Deep local directional embeddings with increased foreground focal loss for object detection. [[Paper]](https://ieeexplore.ieee.org/document/8966436)  
+
+## 2.4 Gradient-based Approaches <a name="2.4"></a> 
+-Focal Loss for Dense Object Detection. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  
+-Focal Loss in 3D Object Detection. [[Paper]](https://arxiv.org/pdf/1809.06065.pdf)  
+-Automated focal loss for image based object detection. [[Paper]](https://arxiv.org/pdf/1904.09048.pdf)  
+-Spatial focal loss for pedestrian detection in fisheye imagery. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8658951)   
+-Focal text: an accurate text detection with focal loss. [[Paper]](https://ieeexplore.ieee.org/document/8451241)  
+-Class-discriminative focal loss for extreme imbalanced multiclass object detection towards autonomous driving. [[Paper]](https://link.springer.com/article/10.1007/s00371-021-02067-9)  
+-Dldenet: Deep local directional embeddings with increased foreground focal loss for object detection. [[Paper]](https://ieeexplore.ieee.org/document/8966436)  
+
 ## 2.5 Ranking-based Approaches <a name="2.5"></a>  
 
 # Regression Losses
