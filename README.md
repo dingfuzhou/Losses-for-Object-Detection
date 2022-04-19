@@ -73,10 +73,18 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -Equalization loss v2: A new gradient balance approach for long-tailed object detection. [[Paper]](https://arxiv.org/pdf/2012.08548.pdf)  
 -Droploss for longtail instance segmentation. [[Paper]](https://arxiv.org/pdf/2104.06402.pdf)   
 -Distribution-balanced loss for multi-label classification in long-tailed datasets. [[Paper]](https://arxiv.org/pdf/2007.09654.pdf)  
--Distributional robustness loss for long-tail learning,. [[Paper]](https://arxiv.org/pdf/2104.03066.pdf)  
+-Distributional robustness loss for long-tail learning. [[Paper]](https://arxiv.org/pdf/2104.03066.pdf)  
 -Adaptive class suppression loss for long-tail object detection. [[Paper]](https://arxiv.org/pdf/2104.00885.pdf)  
 -Seesaw loss for long-tailed instance segmentation. [[Paper]](https://arxiv.org/pdf/2008.10032.pdf)  
 ## 2.5 Ranking-based Approaches <a name="2.5"></a>  
+-Towards accurate one-stage object detection with ap-loss. [[Paper]](https://arxiv.org/pdf/1904.06373.pdf)  
+-Ap-loss for accurate one-stage object detection. [[Paper]](https://arxiv.org/pdf/2008.07294.pdf)  
+-Dr loss: Improving object detection by distributional ranking. [[Paper]](https://arxiv.org/pdf/1907.10156.pdf)  
+-Rank & sort loss for object detection and instance segmentation. [[Paper]](https://arxiv.org/pdf/2107.11669.pdf)   
+-A ranking-based, balanced loss function unifying classification and localisation in object detection. [[Paper]](https://arxiv.org/pdf/2009.13592.pdf)  
+-Rankdetnet: Delving into ranking constraints for object detection. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_RankDetNet_Delving_Into_Ranking_Constraints_for_Object_Detection_CVPR_2021_paper.pdf)  
+-Tackling class imbalance with ranking. [[Paper]](https://ieeexplore.ieee.org/document/7727469)  
+-Combining ranking with traditional methods for ordinal class imbalance. [[Paper]](https://ieeexplore.ieee.org/document/7727469)  
 
 # Regression Losses
 ## Scale Imbalance
