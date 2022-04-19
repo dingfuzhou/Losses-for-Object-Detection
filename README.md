@@ -68,14 +68,14 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -Dldenet: Deep local directional embeddings with increased foreground focal loss for object detection. [[Paper]](https://ieeexplore.ieee.org/document/8966436)  
 
 ## 2.4 Gradient-based Approaches <a name="2.4"></a> 
--Focal Loss for Dense Object Detection. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)  
--Focal Loss in 3D Object Detection. [[Paper]](https://arxiv.org/pdf/1809.06065.pdf)  
--Automated focal loss for image based object detection. [[Paper]](https://arxiv.org/pdf/1904.09048.pdf)  
--Spatial focal loss for pedestrian detection in fisheye imagery. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8658951)   
--Focal text: an accurate text detection with focal loss. [[Paper]](https://ieeexplore.ieee.org/document/8451241)  
--Class-discriminative focal loss for extreme imbalanced multiclass object detection towards autonomous driving. [[Paper]](https://link.springer.com/article/10.1007/s00371-021-02067-9)  
--Dldenet: Deep local directional embeddings with increased foreground focal loss for object detection. [[Paper]](https://ieeexplore.ieee.org/document/8966436)  
-
+-Equalization loss for long-tailed object recognition. [[Paper]](https://arxiv.org/pdf/2003.05176.pdf)  
+-Gradient harmonized single-stage detector. [[Paper]](https://arxiv.org/pdf/1811.05181.pdf)  
+-Equalization loss v2: A new gradient balance approach for long-tailed object detection. [[Paper]](https://arxiv.org/pdf/2012.08548.pdf)  
+-Droploss for longtail instance segmentation. [[Paper]](https://arxiv.org/pdf/2104.06402.pdf)   
+-Distribution-balanced loss for multi-label classification in long-tailed datasets. [[Paper]](https://arxiv.org/pdf/2007.09654.pdf)  
+-Distributional robustness loss for long-tail learning,. [[Paper]](https://arxiv.org/pdf/2104.03066.pdf)  
+-Adaptive class suppression loss for long-tail object detection. [[Paper]](https://arxiv.org/pdf/2104.00885.pdf)  
+-Seesaw loss for long-tailed instance segmentation. [[Paper]](https://arxiv.org/pdf/2008.10032.pdf)  
 ## 2.5 Ranking-based Approaches <a name="2.5"></a>  
 
 # Regression Losses
