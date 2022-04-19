@@ -12,24 +12,24 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 	2.3  [Re-weighting-based Approaches](#2.3)  
 	2.4  [Gradient-based Approaches](#2.4)  
 	2.5  [Ranking-based Approaches](#2.5)  
-- [Regression Losses](#REGRESSION-LOSSES)
-	- [Scale Imbalance Issue](#Scale-Imbalance)
-	- [Optimization Issue](#Optimization-Issue)
-	- [Outlier Problem](#Outlier-Problem)
-- [Loss Function for Oriented Object Detection](#Loss-Function-for-Oriented-Object-Detection)
-	- [Boundary Discontinuity Problem](#Boundary-Discontinuity-Problem)
-	- [Complicated-IoU-Computation-Issue](#Complicated-IoU-Computation-Issue)
- - [ Future Research Directions](#Future-Research-Directions)
-	- [Unifying Classification and Localisation Tasks](#Unifying-Classification-and-Localisation-Tasks)
-	- [Automation Loss Function Searching](#Automation-Loss-Function-Searching)
-	- [End-to-end Object Detection](#End-to-end-Object-Detection)
-	- [Mulit-tasks Learning](#Mulit-tasks-Learning)
+3. [Regression Losses](#3)  
+	3.1 [Scale Imbalance Issue](#3.1)  
+	3.2 [Optimization Issue](#3.2)  
+	3.3 [Outlier Problem](#3.3)  
+4. [Loss Function for Oriented Object Detection](#4)  
+	4.1 [Boundary Discontinuity Problem](#4.1)  
+	4.2 [Complicated-IoU-Computation-Issue](#4.2)  
+ 5. [ Future Research Directions](#5)  
+	5.1 [Unifying Classification and Localisation Tasks](#5.1)  
+	5.2 [Automation Loss Function Searching](#5.2)  
+	5.3 [End-to-end Object Detection](#5.3)  
+	5.4 [Mulit-tasks Learning](#5.4)  
 
 
 
 
 ----------------------------------
-# 1. Ground Truth Label Assignment <a name="1"></a>
+# 1. Ground Truth Label Assignment <a name="1"></a>  
 ## 1.1 One-to-Many Assignment<a name="1.1"></a>
   - Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
 ## 1.2 One-to-One Assignment<a name="1.2"></a>  
@@ -86,19 +86,19 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -Tackling class imbalance with ranking. [[Paper]](https://ieeexplore.ieee.org/document/7727469)  
 -Combining ranking with traditional methods for ordinal class imbalance. [[Paper]](https://ieeexplore.ieee.org/document/7727469)  
 
-# Regression Losses
-## Scale Imbalance
-## Optimization Issue
-## Outlier Problem
+# 3. Regression Losses <a name="3"></a>  
+## 3.1. Scale Imbalance <a name="3.1"></a>  
+## 3.2. Optimization Issue <a name="3.2"></a>  
+## 3.3. Outlier Problem <a name="3.3"></a>  
 
-# Loss Function for Oriented Object Detection
-## Boundary Discontinuity Problem
-## Complicated IoU Computation Issue
+# 4. Loss Function for Oriented Object Detection <a name="4"></a>  
+## 4.1. Boundary Discontinuity Problem <a name="4.1"></a>  
+## 4.2. Complicated IoU Computation Issue <a name="4.2"></a>  
 
-# Future Research  Directions
-## Unifying Classification and Localisation Tasks
-## Automation Loss Function Searching
-## End-to-end Object Detection
-## Mulit-tasks Learning
+# 5. Future Research  Directions <a name="5"></a>  
+## 5.1. Unifying Classification and Localisation Tasks <a name="5.1"></a>  
+## 5.2. Automation Loss Function Searching <a name="5.2"></a> 
+## 5.3. End-to-end Object Detection <a name="5.3"></a> 
+## 5.4. Mulit-tasks Learning <a name="5.4"></a> 
  
  
