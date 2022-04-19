@@ -121,8 +121,15 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 -A normalized gaussian wasserstein distance for tiny object detection. [[Paper]](https://arxiv.org/pdf/2110.13389.pdf)    
 -Learning high-precision bounding box for rotated object detection via kullback-leibler divergence. [[Paper]](https://arxiv.org/pdf/2106.01883.pdf)     
 # 5. Future Research  Directions <a name="5"></a>  
-## 5.1. Unifying Classification and Localisation Tasks <a name="5.1"></a>  
+## 5.1. Unifying Classification and Localisation Tasks <a name="5.1"></a>    
+-Acquisition of localization confidence for accurate object detection. [[Paper]](https://arxiv.org/pdf/1807.11590.pdf)   
+-Ap-loss for accurate one-stage object detection. [[Paper]](https://arxiv.org/pdf/2008.07294.pdf)  
+-A ranking-based, balanced loss function unifying classification and localisation in object detection. [[Paper]](https://arxiv.org/pdf/2009.13592.pdf)   
 ## 5.2. Automation Loss Function Searching <a name="5.2"></a> 
+-Amlfs: Automl for loss function search. [[Paper]](https://arxiv.org/pdf/1905.07375.pdf)   
+-Loss function discovery for object detection via convergence-simulation driven search. [[Paper]](https://arxiv.org/pdf/2102.04700.pdf)  
+-Autoloss-zero: Searching loss functions from scratch for generic tasks. [[Paper]](https://arxiv.org/pdf/2103.14026.pdf)   
+-Searching parameterized ap loss for object detection. [[Paper]](https://arxiv.org/pdf/2112.05138.pdf)   
 ## 5.3. End-to-end Object Detection <a name="5.3"></a> 
 ## 5.4. Mulit-tasks Learning <a name="5.4"></a> 
  
