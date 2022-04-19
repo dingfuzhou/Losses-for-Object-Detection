@@ -33,11 +33,14 @@ This repository provides an up-to-date list of loss functions proposed for solvi
 ## 1.1 One-to-Many Assignment<a name="1.1"></a>
   - Many object detectors are designed with this strategy such as RCNN Series, One-stage, Two-stages Anchor-based Anchor-free, and many 3D detectors;
 ## 1.2 One-to-One Assignment<a name="1.2"></a>  
-  -DETR based object detectors, such as:  
-  -End-to-End Object Detection with Transformers [[Paper]](https://arxiv.org/pdf/2005.12872.pdf)  
-  -End-to-end object detection with fully convolutional network [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Object_Detection_With_Fully_Convolutional_Network_CVPR_2021_paper.pdf)  
-  -Rethinking transformerbased set prediction for object detection [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.pdf)  
-  -Sparse r-cnn: End-to-end object detection with learnable proposals [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.pdf)  
+  - DETR based object detectors, such as:  
+  -End-to-End Object Detection with Transformers. [[Paper]](https://arxiv.org/pdf/2005.12872.pdf)  
+  -End-to-end object detection with fully convolutional network. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Object_Detection_With_Fully_Convolutional_Network_CVPR_2021_paper.pdf)  
+  -Rethinking transformerbased set prediction for object detection. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.pdf)  
+  -Sparse r-cnn: End-to-end object detection with learnable proposals. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.pdf)  
+  -Deformable DETR: Deformable transformers for end-to-end object detection. [[Paper]](https://openreview.net/pdf?id=gZ9hCDWe6ke)  
+  -Pnp-detr: towards efficient visual analysis with transformers. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_PnP-DETR_Towards_Efficient_Visual_Analysis_With_Transformers_ICCV_2021_paper.pdf)  
+  -Conditional detr for fast training convergence. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.pdf)  
 
 # 2. Classification Losses <a name="2"></a>
 ## 2.1 Classical Classification Losses <a name="2.1"></a>
